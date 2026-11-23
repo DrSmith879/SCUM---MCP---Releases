@@ -1,4 +1,4 @@
-# SCUM - MCP
+# SCUM - MCP (THIS IS A WORK IN PROGRESS AND NOT ALL OPTIONS ARE EVEN OPERATIONAL YET)
 
 A Windows desktop app for running SCUM: your game client, your dedicated server and the mods for both, all in one place.
 
