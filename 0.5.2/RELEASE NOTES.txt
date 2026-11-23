@@ -1,0 +1,1 @@
+Mod Manager > Mods in Home Directory is neater: Type, Install To, Status and the Update / Install button each line up in their own column, with a shorter status. Click MOD, TYPE, INSTALL TO or STATUS to sort (click again to reverse); names always stay A-Z inside each group, so all UE4SS mods stay together, then all PAK mods. The app remembers your sort.
